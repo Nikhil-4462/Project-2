@@ -32,7 +32,7 @@ display: flex;
 }
 #navbar::before{
     content: "";
-    background: url(../img/bg1.jpg);
+    background: black;
     position: absolute;
     top: 0px;
     left: 0px;
